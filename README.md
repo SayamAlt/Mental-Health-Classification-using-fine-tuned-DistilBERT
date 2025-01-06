@@ -52,7 +52,7 @@ This dataset can be used for:
 2. Developing tools to monitor and provide mental health support in real time.
 3. Research studies focused on understanding mental health trends across demographics.
 
-## Acknowledgments
+## Acknowledgements
 This dataset was created by aggregating and cleaning data from various publicly available Kaggle datasets. Special thanks to the original dataset creators for their invaluable contributions.
 
 ---
